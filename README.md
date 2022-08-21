@@ -1,6 +1,6 @@
-NEWSSS
+NEWSSS   https://docs.google.com/document/d/1NQPKxCAYhGaykes9sIxn1Tyv3BVvTqW6pb0F7lrTtoc/edit
 
-TV GUİDE
+TV GUİDE   https://docs.google.com/document/d/1Q8t7eXTHeLODZMdI0cdZoiTn3MpsKiWBXJIEMQ8a0aw/edit
 
 SETUP
 
